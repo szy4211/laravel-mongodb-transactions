@@ -2,6 +2,7 @@
 
 ### 介绍
 
+
 Jensseger的laravel-mongodb扩展包在Laravel开发人员中非常受欢迎，但是缺少一个事务的功能。mongoDB 4.x支持多文档事务。因此，该软件包扩展了[Jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb)，支持事务功能。
 
 1. mongoDB事务是基于 mongoDB4.x 副本集环境下。[mongoDB](https://docs.mongodb.com/manual/core/transactions)
